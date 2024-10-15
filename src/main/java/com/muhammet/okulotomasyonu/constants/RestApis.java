@@ -9,7 +9,7 @@ public class RestApis {
 
     private static final String ROOT = VERSION+ DEVELOPER;
 
-    public static final String FOLLOW = ROOT + "/follow";
+    public static final String OGRENCI = ROOT + "/ogrenci";
 
 
     public static final String ADD = "/add";
